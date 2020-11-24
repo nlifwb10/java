@@ -1,6 +1,6 @@
-package java_04_조건문_반복문;
+package sanghoon;
 
-public class Practice {
+public class Practice_4장 {
 
 	/*
 	4-1
@@ -253,10 +253,27 @@ public class Practice {
 	 */
 	
 	public static void main(String[] args) {
-		
+		int number = 12321;
+		int tmp = number;
+		int result =0; // number 변수 를 거꾸로 변환해서 담을 변수
+		while(tmp !=0) {
+			int a = 0;
+			String stmp = "";
+			
+			while(tmp !=0) {				
+				a = tmp%10;
+				stmp += Integer.toString(a);				
+//				result = tmp%10;				
+				tmp = tmp/10;							
+			}
+			
+			result = Integer.parseInt(stmp);
+		}
+			if(number == result)
+					System.out.println( number + " . 는 회문수 입니다");
+			else
+					System.out.println( number + " .는 회문수가  아닙니다.");
 		
 	}
-		
-
 
 }

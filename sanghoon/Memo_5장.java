@@ -1,4 +1,4 @@
-package java_05_배열;
+package sanghoon;
 
 import java.util.Arrays;
 
@@ -37,7 +37,24 @@ public class Memo_5장 {
 	                 	  }
 	                 	  이런식으로..
 	  
-	
+	▶String 클래스는 내용을 변경할수 없다!!
+	 -주요 메서드
+	  -> charAt() ->문자위치
+	  -> length()  -> 문자열길이
+	  -> substring(from ~to) - to는 포함안됨 / 문자열잘라서가져올때
+	  -> equals() ->문자열값 비교
+	  -> toCharArray() ->문자열 하나씩배열로 저장
+	  
+	  ▶Arrays
+	  - 1차원 배열 비교할때는  Arrays.equals(arr1,arr2)
+	  - 2차원 배열 비교할때는  Arrays.deepEquals(arr1,arr2)
+	  - int[] arr2 = Arrays.copyOf(arr,arr.length); ->배열 복사/ 어디까지
+	  - int[] arr2 = Arrays.copyOfRange(arr,arr.length,from,to); ->배열 복사/어디서부터~어디까지복사할껀지
+	  - Arrays.sort(arr) 배열정렬!
+	  	  
+	  
+		
+		
 	
 	*/
 		

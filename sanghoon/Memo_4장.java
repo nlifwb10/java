@@ -1,6 +1,6 @@
-package java_04_조건문_반복문;
+package sanghoon;
 
-public class Memo {
+public class Memo_4장 {
 	
 	/*
 	 
@@ -52,6 +52,5 @@ public class Memo {
 			i++;
 		}
 	}
-
 
 }
