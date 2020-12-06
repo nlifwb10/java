@@ -2,7 +2,7 @@ package study.sanghoon;
 
 import java.util.Arrays;
 
-public class Memo_5장 {
+public class Memo_5장 {
 
 	/*
 	

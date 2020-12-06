@@ -3,7 +3,7 @@ package study.sanghoon;
 import java.util.Arrays;
 
 
-public class Practice_7장 {
+public class Practice_7장 {
 
 	/*
 	7-1

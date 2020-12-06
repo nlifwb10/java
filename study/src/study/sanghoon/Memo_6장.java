@@ -1,7 +1,7 @@
 package study.sanghoon;
 
 
-public class Memo_6장 {
+public class Memo_6장 {
 	
 	
 	/*	
