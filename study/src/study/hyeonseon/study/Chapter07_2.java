@@ -1,4 +1,4 @@
-package study.hyeonseon;
+package study.hyeonseon.study;
 
 import java.awt.Frame;
 import java.awt.event.WindowAdapter;
