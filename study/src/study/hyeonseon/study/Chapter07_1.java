@@ -1,4 +1,4 @@
-package study.hyeonseon;
+package study.hyeonseon.study;
 
 class SutdaDeck {
 	final int CARD_NUM = 20;

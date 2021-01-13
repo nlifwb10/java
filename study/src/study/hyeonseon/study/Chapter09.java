@@ -1,4 +1,4 @@
-package study.hyeonseon;
+package study.hyeonseon.study;
 
 import java.util.ArrayList;
 import java.util.Scanner;

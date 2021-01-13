@@ -1,4 +1,4 @@
-package study.hyeonseon;
+package study.hyeonseon.study;
 
 public class Chapter06_1 {
 	

@@ -1,4 +1,4 @@
-package study.hyeonseon;
+package study.hyeonseon.study;
 
 import java.util.Scanner;
 
@@ -9,8 +9,10 @@ public class Chapter08 {
 
 		practice1();
 		practice2();
+		practice3();
 		practice4();
 		practice5();
+		practice6();
 		practice7();
 		practice8();
 		practice9();
@@ -72,6 +74,7 @@ public class Chapter08 {
 		int input = 0; // 사용자입력을 저장할 공간
 		int count = 0; // 시도횟수를 세기 위한 변수
 		
+		/*
 		do {
 			count++;
 			System.out.print("1과 100사이의 값을 입력하세요.");
@@ -81,7 +84,7 @@ public class Chapter08 {
 			try {
 				
 			} catch (Exception e) {
-				// TODO: handle exception
+				
 			}
 			
 			if(answer > input) {
@@ -94,6 +97,7 @@ public class Chapter08 {
 				break; // do-while문을 벗어난다
 			}
 		} while(true); // 무한반복문
+		*/
 	}
 	
 	public static void practice9() {

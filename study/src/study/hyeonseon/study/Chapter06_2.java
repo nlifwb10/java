@@ -1,4 +1,4 @@
-package study.hyeonseon;
+package study.hyeonseon.study;
 
 public class Chapter06_2 {
 	public static void main(String[] args) {
